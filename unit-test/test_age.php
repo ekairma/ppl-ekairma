@@ -1,6 +1,6 @@
 <?php
 // File: test_name.php
-require_once "validator.php";
+require_once "validator.php"; 
 
 // Test Case 1: Nama valid (nama lengkap Anda)
 try {
